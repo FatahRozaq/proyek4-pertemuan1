@@ -2,7 +2,7 @@
 
 Identitas Kelompok
 
-Anggota 
+Anggota :
 Brahmantya Ndaru Taja Santoso (221511006)
 Muhamad Fatah Rozaq (221511018)
 Vico Triansyah Nasril (221511031)
